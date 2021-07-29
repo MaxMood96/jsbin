@@ -16,7 +16,7 @@
   "dependencies": {
     "acorn": ">=0.4.2",
     "glob": "3",
-    "minimatch": "0.2"
+    "minimatch": "3.0.4"
   },
   "devDependencies": {
     "codemirror": "git://github.com/marijnh/CodeMirror.git",
