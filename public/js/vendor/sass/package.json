@@ -44,7 +44,7 @@
     "dist/"
   ],
   "devDependencies": {
-    "jshint-stylish": "~0.1.5",
+    "jshint-stylish": "~0.4.0",
     "chai": "~1.8.1",
     "grunt-mocha-test": "~0.8.1",
     "grunt": "~0.4.2",
