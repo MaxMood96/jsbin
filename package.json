@@ -84,8 +84,8 @@
     "validator": "^3.16.1"
   },
   "devDependencies": {
-    "glob": "^7.0.5",
-    "grunt": "^1.0.1",
+    "glob": "^9.0.0",
+    "grunt": "^1.6.0",
     "grunt-cli": "~0.1.11",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-jshint": "~0.1.1",
@@ -95,7 +95,7 @@
     "proxyquire": "^1.7.10",
     "should": "~1.2.2",
     "sinon": "~1.7.3",
-    "tap": "^6.3.2",
+    "tap": "^18.0.0",
     "tap-only": "0.0.5"
   },
   "engines": {
