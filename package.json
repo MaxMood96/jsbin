@@ -34,7 +34,7 @@
   "dependencies": {
     "async": "~0.1.22",
     "asyncjs": "0.0.7",
-    "aws-sdk": "^2.0.18",
+    "aws-sdk": "^2.1401.0",
     "axon": "^2.0.3",
     "bcrypt-nodejs": "0.0.3",
     "bin-to-file": "0.0.5",
@@ -85,17 +85,17 @@
   },
   "devDependencies": {
     "glob": "^7.0.5",
-    "grunt": "^1.0.1",
+    "grunt": "^1.0.3",
     "grunt-cli": "~0.1.11",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-jshint": "~0.1.1",
     "grunt-contrib-uglify": "^2.3.0",
     "hbs-utils": "0.0.3",
-    "mocha": "~1.21.4",
+    "mocha": "~10.6.0",
     "proxyquire": "^1.7.10",
     "should": "~1.2.2",
     "sinon": "~1.7.3",
-    "tap": "^6.3.2",
+    "tap": "^18.0.0",
     "tap-only": "0.0.5"
   },
   "engines": {
